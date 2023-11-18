@@ -1,0 +1,38 @@
+.heading {
+    color: azure;
+}
+
+.employee-form {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 0.1px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin: 10px 0;
+
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: azure;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 2px solid #333;
+    border-radius: 3px;
+}
+
+
+
+.btn:hover {}

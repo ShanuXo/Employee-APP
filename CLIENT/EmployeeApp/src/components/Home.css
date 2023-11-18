@@ -1,0 +1,43 @@
+.home {
+    height: 100vh;
+    /* 100% of the viewport height */
+    width: 100%;
+    /* 100% of the viewport width */
+    background-color: #f0f0f0;
+    /* Background color for the entire component */
+    padding: 20px;
+    /* Add padding as needed */
+}
+
+.navbar-above {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.navbar {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.card {
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;/
+}

@@ -1,0 +1,31 @@
+/* .dashboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+} */
+
+.input-form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.main {
+    background-color: rgb(243 112 55);
+    background-image: url(https://media.licdn.com/dms/image/C560BAQHfsFr91ekzrQ/company-logo_200_200/0/1593608530033/globallogic_logo?e=2147483647&v=beta&t=eRyscNQp_gSrSQP7QpBSWXDMOJbKZ7XcAo7J1ngweBs);
+    background-repeat: no-repeat;
+
+}
+
+.heading {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    font-size: 24px;
+
+}
